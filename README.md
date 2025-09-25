@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 👩 About Me
-I’m **Zainab**, a student of **BS Statistics** 🎓 at Government College Women univeraity Sialkot.  
+I’m **Zainab**, a student of **BS Statistics** 🎓 at Government College Women university Sialkot.  
 I’m passionate about **Data Analysis, Excel, Power BI, Data Visualisation , word, powerpoint**.  
 Currently, I’m exploring how data and AI can solve real-world problems. 🚀  
 
